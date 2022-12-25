@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
 
 
     }
-    //menyaem ekrani 
+    //menyaem ekrani
     override fun onSupportNavigateUp(): Boolean {
         return navController.navigateUp() || super.onSupportNavigateUp()
     }
