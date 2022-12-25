@@ -18,6 +18,6 @@
     <fragment
         android:id="@+id/foodJokeFragment"
         android:name="com.example.superapp.FoodJokeFragment"
-        android:label="Food Joke"
+        android:label="Quote"
         tools:layout="@layout/fragment_food_joke" />
 </navigation>
