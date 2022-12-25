@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
 
 
     }
-    //menyat' odin ekran na drugoi
+    //menyaem ekrani 
     override fun onSupportNavigateUp(): Boolean {
         return navController.navigateUp() || super.onSupportNavigateUp()
     }
