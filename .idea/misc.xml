@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kinog/AndroidStudioProjects/superapp/app/src/main/res/drawable/ic_food_joke.xml" value="0.1515" />
-        <entry key="..\:/Users/kinog/AndroidStudioProjects/superapp/app/src/main/res/layout/activity_main.xml" value="0.14473684210526316" />
+        <entry key="..\:/Users/kinog/AndroidStudioProjects/superapp/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/kinog/AndroidStudioProjects/superapp/app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.358695652173913" />
         <entry key="..\:/Users/kinog/AndroidStudioProjects/superapp/app/src/main/res/layout/fragment_food_joke.xml" value="0.358695652173913" />
         <entry key="..\:/Users/kinog/AndroidStudioProjects/superapp/app/src/main/res/layout/fragment_recipes.xml" value="0.358695652173913" />
         <entry key="..\:/Users/kinog/AndroidStudioProjects/superapp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/kinog/OneDrive/Desktop/superapp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kinog/OneDrive/Desktop/superapp/app/src/main/res/layout/food_recipes_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/kinog/OneDrive/Desktop/superapp/app/src/main/res/layout/food_row_layout.xml" value="0.4727085478887745" />
         <entry key="..\:/Users/kinog/OneDrive/Desktop/superapp/app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.358695652173913" />
         <entry key="..\:/Users/kinog/OneDrive/Desktop/superapp/app/src/main/res/layout/fragment_food_joke.xml" value="0.358695652173913" />
         <entry key="..\:/Users/kinog/OneDrive/Desktop/superapp/app/src/main/res/layout/fragment_recipes.xml" value="0.358695652173913" />
